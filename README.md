@@ -1,10 +1,4 @@
-### Hi there 👋, I'm Kacper
-
 ## Frontend Developer @ Rigby
-- 🔭 I’m currently working on my portfolio website
-- ⭐ 2025 Goals: [Three.js](https://threejs.org/) + Backend development
-- 📫 How to reach me: send me an email - [contact](mailto:kacpertokarski2000@gmail.com)
-- ⚡ Fun fact: I love American football
 
 ## Languages and tools:
 

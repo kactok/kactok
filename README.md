@@ -1,4 +1,4 @@
-## Frontend Developer @ Rigby
+### Frontend Developer @ Rigby
 
 ## Languages and tools:
 

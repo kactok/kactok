@@ -8,8 +8,3 @@
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/) |  | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=white)](https://yarnpkg.com/) |  |  |
 | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/) | [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/) |  | [![pnpm](https://img.shields.io/badge/pnpm-4A4A4A?logo=pnpm&logoColor=white)](https://pnpm.io/) |  |  |
 | [![SQL](https://img.shields.io/badge/SQL-003B57?logo=sql&logoColor=white)](https://www.sql.org/) | [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/) |  |  |  |  |
-
-## My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kactok&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kactok&layout=compact&theme=radical)
